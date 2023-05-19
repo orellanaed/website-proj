@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 import Headings from "../components/headings"
 
 const IndexPage = () => {
-  const { allStrapiArticle, strapiGlobal } = useStaticQuery(graphql`
+  const { } = useStaticQuery(graphql`
     query {
       allStrapiArticle {
         nodes {

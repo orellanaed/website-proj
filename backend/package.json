@@ -24,7 +24,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "6571bcab-e303-42a3-bed4-124baa909f44",
+    "uuid": "9df73b73-f878-4982-89e3-7c19eb28de9e",
     "template": "@strapi/template-blog@^2.0.0",
     "starter": "@strapi/starter-gatsby-blog"
   },

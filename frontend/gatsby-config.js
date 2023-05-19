@@ -10,8 +10,7 @@ module.exports = {
       resolve: "gatsby-source-strapi",
       options: {
         apiURL: "http://localhost:1337",
-        accessToken:
-          "0f4182550d4cfcb8c14fef836fdf4f89e7dff57b9c9977a53cead8b0aaf86897eb3365a83a5f846e1d686c8f73319539d24563891bf124c649f606a39c162a03ecbc0252df7f8495f2c8ecfaddad75dbebad2d6cfc04d4cfc7e2bc8611d0ada27f131495171840ad3520465bbd338ee3f11280d23761efe8fb3f50ee456c967a",
+        accessToken:"a5a795be1533bed6421da19b9ea92aa0758a8d6af0660b4804054d9805bca1227374cbb28d0c55ac59f7a10e1099db9298939a02dbb419d2407564c9afac30838173734b83d5044c415ae6746c41502b52dc1680455baa275631d6884b8c953fa744c908dc9184d0f2db0190abc80e8a2d101f90ad593dc73576a0451e34d1e8",
         collectionTypes: [
           {
             singularName: "article",
